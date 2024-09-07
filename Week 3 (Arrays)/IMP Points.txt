@@ -1,0 +1,3 @@
+1.To inplace sort we use 3 pointer approach l,m = start ,h = end.
+2. In case we have restriction of don't modify array we use approach of visited or not visited approach by using another array.
+3. Where the element of array is in range of 1 to n we can treat array element as an index of array.
